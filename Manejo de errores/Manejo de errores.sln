@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manejo de errores", "Manejo de errores\Manejo de errores.csproj", "{31417BD7-1134-457C-BEA5-E1087FA122EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "punto 3", "punto 3\punto 3.csproj", "{82674311-E88C-4465-9D22-1EEDB07A1DF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31417BD7-1134-457C-BEA5-E1087FA122EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31417BD7-1134-457C-BEA5-E1087FA122EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31417BD7-1134-457C-BEA5-E1087FA122EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31417BD7-1134-457C-BEA5-E1087FA122EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82674311-E88C-4465-9D22-1EEDB07A1DF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82674311-E88C-4465-9D22-1EEDB07A1DF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82674311-E88C-4465-9D22-1EEDB07A1DF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82674311-E88C-4465-9D22-1EEDB07A1DF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17FB9782-530A-44AA-BC90-8D89D939C570}
+	EndGlobalSection
+EndGlobal
