@@ -6,6 +6,7 @@ namespace punto_3
 {
     class Program
     {
+        private static NLog.Logger logger = NLog.LogManager.GetCurrentClassLogger();
         static void Main(string[] args)
         {
             List<empleado> lista = new List<empleado>();
@@ -29,7 +30,7 @@ namespace punto_3
             }
             catch (Exception e)
             {
-
+                logger.Error(e.Message);
                 Console.WriteLine(e.Message);
             }
 
